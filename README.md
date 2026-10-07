@@ -103,8 +103,7 @@ Non-Negative Least Squares (NNLS) is applied to OOF predictions to find optimal 
 
 ### 1. Clone & install dependencies
 ```bash
-git clone <https://github.com/coderfarabi/house-prices-ml-assessment>
-cd house-prices-ml-assessment
+git clone https://github.com/coderfarabi/house-prices-ml-assessment
 pip install -r requirements.txt
 ```
 
