@@ -1,0 +1,7 @@
+Model,CV_RMSLE,NNLS_Weight,Notes
+Baseline (Ridge),0.11316,0.0,Performance floor
+LASSO,0.11176,0.4537,
+GBR,0.11368,0.1853,
+XGB,0.11161,0.361,
+LGB,0.11728,0.0,
+NNLS Ensemble,0.10745,1.0,Final submission model
